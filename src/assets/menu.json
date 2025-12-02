@@ -1,21 +1,30 @@
-[{
-    "name": "Veggie Bliss", 
-    "kCal": 500, 
-    "url": "https://images-bonnier.imgix.net/files/ifo/production/20220412084608/Kødfri-burger-1.jpg?auto=compress,format&w=1024%201024w",
-    "lactose": false, 
-    "gluten": false
-},
-{
-    "name": "Veggie Bliss", 
-    "kCal": 500, 
-    "url": "https://images-bonnier.imgix.net/files/ifo/production/20220412084608/Kødfri-burger-1.jpg?auto=compress,format&w=1024%201024w",
-    "lactose": false, 
-    "gluten": false
-},
-{
-    "name": "Veggie Bliss", 
-    "kCal": 500, 
-    "url": "https://images-bonnier.imgix.net/files/ifo/production/20220412084608/Kødfri-burger-1.jpg?auto=compress,format&w=1024%201024w",
-    "lactose": false, 
-    "gluten": false
-}]
+[
+    {
+        "name": "Burgur 1",
+        "price": 79,
+        "calories": 650,
+        "allergies": [
+            "Vegan"
+        ],
+        "imgUri": "https://djpqty2rsb.execute-api.eu-north-1.amazonaws.com/prod/files/ckkffsjx9lclo0838wwe2hc5b/cm7ac8af1000008ii4qkn0eqe"
+    },
+    {
+        "name": "Burgur 2",
+        "price": 99,
+        "calories": 790,
+        "allergies": [
+            "Gluten",
+            "Human meat"
+        ],
+        "imgUri": "https://djpqty2rsb.execute-api.eu-north-1.amazonaws.com/prod/files/ckkffsjx9lclo0838wwe2hc5b/cm7ac8afz000008l46oix15m5"
+    },
+    {
+        "name": "Burgur 3",
+        "price": 119,
+        "calories": 1150,
+        "allergies": [
+            "2 sugar atoms"
+        ],
+        "imgUri": "https://djpqty2rsb.execute-api.eu-north-1.amazonaws.com/prod/files/cm74ic2ykamnq0968b9psb8la/cmb0zhtqg000008l41z229l0h"
+    }
+]
